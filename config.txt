@@ -1,0 +1,2 @@
+display_wpm=True
+live_or_end_or_both=both
