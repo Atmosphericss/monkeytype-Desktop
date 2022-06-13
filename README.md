@@ -10,3 +10,6 @@ Also included the img file I used for the Discord Application, and the icon I us
 
 
 Built version of the program can be found in releases. This should work straight out of the box, you can just change config to your liking.
+
+
+Remember to add the application in discord activity status if it doesn't show up automatically.
